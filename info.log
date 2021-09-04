@@ -1,0 +1,178 @@
+{"level":"info","message":"DB_URL","timestamp":"2021-07-21T11:24:12.342Z"}
+{"level":"info","message":"'mongodb://myUserAdmin:intsRGB%40123@3.134.68.207:27017/carnehlao?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=false';","timestamp":"2021-07-21T11:24:12.343Z"}
+{"level":"info","message":"APP_PORT","timestamp":"2021-07-21T11:24:12.343Z"}
+{"level":"info","message":"3000","timestamp":"2021-07-21T11:24:12.344Z"}
+{"level":"info","message":"app listing on 3000","timestamp":"2021-07-21T11:24:12.369Z"}
+{"level":"info","message":"DB_URL","timestamp":"2021-07-21T11:25:25.917Z"}
+{"level":"info","message":"'mongodb://myUserAdmin:intsRGB%40123@3.134.68.207:27017/carnehlao?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=false';","timestamp":"2021-07-21T11:25:25.918Z"}
+{"level":"info","message":"APP_PORT","timestamp":"2021-07-21T11:25:25.919Z"}
+{"level":"info","message":"3000","timestamp":"2021-07-21T11:25:25.919Z"}
+{"level":"info","message":"app listing on 3000","timestamp":"2021-07-21T11:25:25.944Z"}
+{"level":"info","message":"DB_URL","timestamp":"2021-07-21T11:27:57.844Z"}
+{"level":"info","message":"'mongodb://myUserAdmin:intsRGB%40123@3.134.68.207:27017/carnehlao?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=false';","timestamp":"2021-07-21T11:27:57.845Z"}
+{"level":"info","message":"APP_PORT","timestamp":"2021-07-21T11:27:57.845Z"}
+{"level":"info","message":"3000","timestamp":"2021-07-21T11:27:57.845Z"}
+{"level":"info","message":"DB_URL","timestamp":"2021-07-21T13:00:26.560Z"}
+{"level":"info","message":"mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false","timestamp":"2021-07-21T13:00:26.561Z"}
+{"level":"info","message":"APP_PORT","timestamp":"2021-07-21T13:00:26.561Z"}
+{"level":"info","message":"3000","timestamp":"2021-07-21T13:00:26.561Z"}
+{"level":"info","message":"DB connected...","timestamp":"2021-07-21T13:00:26.599Z"}
+{"level":"info","message":"DB_URL","timestamp":"2021-07-21T13:06:05.633Z"}
+{"level":"info","message":"mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false","timestamp":"2021-07-21T13:06:05.634Z"}
+{"level":"info","message":"APP_PORT","timestamp":"2021-07-21T13:06:05.634Z"}
+{"level":"info","message":"3000","timestamp":"2021-07-21T13:06:05.634Z"}
+{"level":"info","message":"DB connected...","timestamp":"2021-07-21T13:06:05.673Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:06:53.766Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:06:53.768Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:06:53.768Z"}
+info: 3000 {"timestamp":"2021-07-21T13:06:53.768Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:06:53.819Z"}
+info: ServiceItem POST Request. req.body = [object Object] {"timestamp":"2021-07-21T13:36:31.460Z"}
+error: ServiceItem POST Request. error = ReferenceError: reesult is not defined {"timestamp":"2021-07-21T13:36:31.717Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:37:48.474Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:37:48.475Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:37:48.475Z"}
+info: 3000 {"timestamp":"2021-07-21T13:37:48.476Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:37:48.514Z"}
+info: ServiceItem POST Request. req.body = [object Object] {"timestamp":"2021-07-21T13:37:53.383Z"}
+info: ServiceItem POST Request. req.body = [object Object] {"timestamp":"2021-07-21T13:38:46.598Z"}
+info: ServiceItem POST Request Successful. res.json = {
+  _id: 60f8236676d8621db8502bfd,
+  name: 'New Item57',
+  status: 'active',
+  type: 'type1',
+  description: 'This is our first item/service',
+  object_id: 'hgfgdtdgdfj',
+  createdAt: 2021-07-21T13:38:46.612Z,
+  updatedAt: 2021-07-21T13:38:46.612Z,
+  __v: 0
+} {"timestamp":"2021-07-21T13:38:46.629Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:39:59.822Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:39:59.823Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:39:59.823Z"}
+info: 3000 {"timestamp":"2021-07-21T13:39:59.823Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:39:59.864Z"}
+info: ServiceItem POST Request. req.body = [object Object] {"timestamp":"2021-07-21T13:40:05.850Z"}
+info: ServiceItem POST Request Successful. res.json = {
+  _id: 60f823b5426a4117ac713a92,
+  name: 'New Item58',
+  status: 'active',
+  type: 'type1',
+  description: 'This is our first item/service',
+  object_id: 'hgfgdtdgdfj',
+  createdAt: 2021-07-21T13:40:05.873Z,
+  updatedAt: 2021-07-21T13:40:05.873Z,
+  __v: 0
+} {"timestamp":"2021-07-21T13:40:05.895Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:40:59.419Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:40:59.420Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:40:59.420Z"}
+info: 3000 {"timestamp":"2021-07-21T13:40:59.420Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:40:59.467Z"}
+info: ServiceItem POST Request. Request Body = [object Object] {"timestamp":"2021-07-21T13:41:01.140Z"}
+info: ServiceItem POST Request Successful. res.json = {
+  _id: 60f823ed53a38d0f0c1ed509,
+  name: 'New Item59',
+  status: 'active',
+  type: 'type1',
+  description: 'This is our first item/service',
+  object_id: 'hgfgdtdgdfj',
+  createdAt: 2021-07-21T13:41:01.180Z,
+  updatedAt: 2021-07-21T13:41:01.180Z,
+  __v: 0
+} {"timestamp":"2021-07-21T13:41:01.201Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:41:54.348Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:41:54.349Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:41:54.350Z"}
+info: 3000 {"timestamp":"2021-07-21T13:41:54.350Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:41:54.403Z"}
+info: ServiceItem POST Request. Request Body = [object Object] {"timestamp":"2021-07-21T13:42:01.055Z"}
+info: ServiceItem POST Request Successful. res.json = {
+  _id: 60f82429dd2f8010108880de,
+  name: 'New Item60',
+  status: 'active',
+  type: 'type1',
+  description: 'This is our first item/service',
+  object_id: 'hgfgdtdgdfj',
+  createdAt: 2021-07-21T13:42:01.298Z,
+  updatedAt: 2021-07-21T13:42:01.298Z,
+  __v: 0
+} {"timestamp":"2021-07-21T13:42:01.324Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:43:30.701Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:43:30.702Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:43:30.702Z"}
+info: 3000 {"timestamp":"2021-07-21T13:43:30.702Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:43:30.744Z"}
+info: ServiceItem POST Request. Request Body = [object Object] {"timestamp":"2021-07-21T13:43:34.779Z"}
+info: ServiceItem POST Request Successful. res.json = {
+  _id: 60f824866c795814f473dff9,
+  name: 'New Item61',
+  status: 'active',
+  type: 'type1',
+  description: 'This is our first item/service',
+  object_id: 'hgfgdtdgdfj',
+  createdAt: 2021-07-21T13:43:34.803Z,
+  updatedAt: 2021-07-21T13:43:34.803Z,
+  __v: 0
+} {"timestamp":"2021-07-21T13:43:34.824Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:44:16.655Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:44:16.657Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:44:16.657Z"}
+info: 3000 {"timestamp":"2021-07-21T13:44:16.657Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:44:16.700Z"}
+info: ServiceItem POST Request. Request Body = [object Object] {"timestamp":"2021-07-21T13:44:23.338Z"}
+info: ServiceItem POST Request Successful. res.json = {
+  _id: 60f824b72c00650d80c31a01,
+  name: 'New Item62',
+  status: 'active',
+  type: 'type1',
+  description: 'This is our first item/service',
+  object_id: 'hgfgdtdgdfj',
+  createdAt: 2021-07-21T13:44:23.364Z,
+  updatedAt: 2021-07-21T13:44:23.364Z,
+  __v: 0
+} {"timestamp":"2021-07-21T13:44:23.392Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:44:47.647Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:44:47.649Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:44:47.649Z"}
+info: 3000 {"timestamp":"2021-07-21T13:44:47.649Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:44:47.705Z"}
+info: ServiceItem POST Request. Request Body = {"name":"New Item63","status":"active","type":"type1","description":"This is our first item/service","ObjectId":"hdjtee326hgdb"} {"timestamp":"2021-07-21T13:44:55.455Z"}
+info: ServiceItem POST Request Successful. res.json = {
+  _id: 60f824d7b358040a2cb8443b,
+  name: 'New Item63',
+  status: 'active',
+  type: 'type1',
+  description: 'This is our first item/service',
+  object_id: 'hgfgdtdgdfj',
+  createdAt: 2021-07-21T13:44:55.478Z,
+  updatedAt: 2021-07-21T13:44:55.478Z,
+  __v: 0
+} {"timestamp":"2021-07-21T13:44:55.511Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:45:23.537Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:45:23.538Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:45:23.538Z"}
+info: 3000 {"timestamp":"2021-07-21T13:45:23.538Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:45:23.581Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:45:53.749Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:45:53.750Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:45:53.750Z"}
+info: 3000 {"timestamp":"2021-07-21T13:45:53.750Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:45:53.789Z"}
+info: DB_URL {"timestamp":"2021-07-21T13:46:05.448Z"}
+info: mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false {"timestamp":"2021-07-21T13:46:05.449Z"}
+info: APP_PORT {"timestamp":"2021-07-21T13:46:05.449Z"}
+info: 3000 {"timestamp":"2021-07-21T13:46:05.449Z"}
+info: DB connected... {"timestamp":"2021-07-21T13:46:05.487Z"}
+info: ServiceItem POST Request. Request Body = {"name":"New Item65","status":"active","type":"type1","description":"This is our first item/service","ObjectId":"hdjtee326hgdb"} {"timestamp":"2021-07-21T13:46:20.969Z"}
+info: ServiceItem POST Request Successful. res.json = {
+  _id: 60f8252c5300941a44cd4f3b,
+  name: 'New Item65',
+  status: 'active',
+  type: 'type1',
+  description: 'This is our first item/service',
+  object_id: 'hgfgdtdgdfj',
+  createdAt: 2021-07-21T13:46:20.989Z,
+  updatedAt: 2021-07-21T13:46:20.989Z,
+  __v: 0
+} {"timestamp":"2021-07-21T13:46:21.008Z"}
